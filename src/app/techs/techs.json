@@ -1,0 +1,58 @@
+[
+  {
+    "key": "gulp",
+    "title": "Gulp",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/gulp.png",
+    "text1": "The streaming build system",
+    "text2": "Automate and enhance your workflow"
+  },
+  {
+    "key": "angular2",
+    "title": "Angular 2",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/angular2.png",
+    "text1": "One framework. Mobile and desktop.",
+    "text2": "In Angular you display data by defining components. Data in your component classes is automatically available to display in your templates or control how they render as in the example below."
+  },
+  {
+    "key": "browsersync",
+    "title": "Browsersync",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/browsersync.png",
+    "text1": "Time-saving synchronised browser testing",
+    "text2": "It’s wicked-fast and totally free"
+  },
+  {
+    "key": "scss",
+    "title": "Sass",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/sass.png",
+    "text1": "Syntactically Awesome Style Sheets.",
+    "text2": "CSS with superpowers."
+  },
+  {
+    "key": "babel",
+    "title": "Babel",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/babel.png",
+    "text1": "Babel is a JavaScript compiler",
+    "text2": "Use next generation JavaScript, today"
+  },
+  {
+    "key": "eslint",
+    "title": "ESLint",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/eslint.png",
+    "text1": "The pluggable linting utility for JavaScript and JSX.",
+    "text2": "1 tool for identifying and reporting on patterns found in ECMAScript/JavaScript code."
+  },
+  {
+    "key": "karma",
+    "title": "Karma",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/karma.png",
+    "text1": "Spectacular Test Runner for JavaScript",
+    "text2": "Things should be simple. We believe in testing and so we want to make it as simple as possible"
+  },
+  {
+    "key": "systemjs",
+    "title": "SystemJS",
+    "logo": "https://raw.githubusercontent.com/FountainJS/generator-fountain-webapp/master/docs/assets/systemjs.png",
+    "text1": "Universal dynamic module loader.",
+    "text2": "Loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Typescript and Babel."
+  }
+]
